@@ -183,22 +183,7 @@ The project contributes to understanding how AI can be applied to discover effec
 - **Uncertainty Quantification**: Incorporate model uncertainty and robustness analysis
 - **Real-World Validation**: Compare learned policies with historical data and expert recommendations
 
-## Citation
 
-If you use this work in your research, please cite:
-```
-@thesis{world3_dqn_2024,
-  title={Deep Reinforcement Learning for World3 Model Control},
-  author={[Your Name]},
-  school={KTH Royal Institute of Technology},
-  year={2024},
-  type={Bachelor's Thesis}
-}
-```
-
-## Contributing
-
-This project serves as a research demonstration and portfolio piece. For questions or collaboration opportunities, please reach out via [your contact information].
 
 ---
 
